@@ -64,9 +64,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\CameraController.cs" />
+    <Compile Include="Assets\Scripts\DragObject.cs" />
     <Compile Include="Assets\Scripts\MaterialEditor.cs" />
     <Compile Include="Assets\Scripts\MouseInput.cs" />
     <Compile Include="Assets\Scripts\MouseLookAt.cs" />
+    <Compile Include="Assets\Scripts\pettingTimer.cs" />
     <Compile Include="Assets\Scripts\PlayerMotor.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/Ydoao/Desktop/Pet_Game/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
